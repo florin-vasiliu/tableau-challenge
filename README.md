@@ -1,7 +1,7 @@
 # <a href="https://public.tableau.com/profile/florin.vasiliu4232#!/vizhome/Analysisv2_15935802632930/Story?publish=yes"> City Bike Analytics </a>
 
 
-  The dataset used for the analysis consisted of May.2020 <a href="https://s3.amazonaws.com/tripdata/index.html">CityBike data</a>. In order to calculate the efficiency of the bikes, one extra column was added to the base dataset using python, which consists of the bike's next trip time, therefore defining also the idle time besides the trip 
+  The dataset used for the analysis consisted of May.2020 <a href="https://s3.amazonaws.com/tripdata/index.html">CityBike data</a>. In order to calculate the efficiency of the bikes, one extra column was added to the base dataset using <a href="https://github.com/florin-vasiliu/tableau-challenge/blob/master/DataProcessing.ipynb">python</a>, which consists of the bike's next trip time, therefore defining also the idle time besides the trip 
 duration for each bike.
  
   Firstly, the analysis has been developed in order to answer the following questions:
