@@ -2,7 +2,10 @@
 *.csv
 *.twbx
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ac17a17de33f79673484cca9dbd5856622cf3355
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
