@@ -1,3 +1,7 @@
+#large data files and tableau files
+*.csv
+*.twbx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
